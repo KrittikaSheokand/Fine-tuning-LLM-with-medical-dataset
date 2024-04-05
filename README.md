@@ -8,5 +8,5 @@ QLoRA is quantizing data (reduces to 4 bit or 8 bit precision) before LoRa which
 
 Instruction fine-tuning comes after the unsupervised pre-training. Unsupervised pre-training trains LLM on huge data so that it can predict the next token given previous tokens. However, instruction fine-tuning is making it more like a chatbot which can give answers to questions. We are instruction fine tuning here as in the data we have human and AI comments.
 
-Directory of output: kkrittik/medical_hw_test
-
+Huggingface Directory of output: kkrittik/medical_hw_test
+Medical dataset: https://huggingface.co/datasets/jbrophy123/medical_dataset
